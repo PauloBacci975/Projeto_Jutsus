@@ -84,7 +84,7 @@ JDBC URL:
 `jdbc:h2:file:./data/jutsusdb`
 
 Usuário:
-`sa`
+`Paulo Bacci`
 
 Senha:
-vazia
+12345
