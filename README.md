@@ -30,16 +30,16 @@ Frontend:
 
 ## Regras do trabalho
 
-RF01 - Cadastrar Jutsus.
-RF02 - ID gerado automaticamente.
-RF03 - Informar nome do Jutsu.
-RF04 - Natureza: Fogo, Água, Vento, Terra ou Raio.
-RF05 - Rank: S, A, B, C ou D.
-RF06 - Custo de chakra em pontos.
-RF07 - Nomes duplicados bloqueados.
-RF08 - Custo negativo bloqueado.
-RF09 - Rank S exige custo mínimo de 100 pontos.
-RF10 - Persistir somente dados válidos.
+- **RF01** - Cadastrar Jutsus.
+- **RF02** - ID gerado automaticamente.
+- **RF03** - Informar nome do Jutsu.
+- **RF04** - Natureza: Fogo, Água, Vento, Terra ou Raio.
+- **RF05** - Rank: S, A, B, C ou D.
+- **RF06** - Custo de chakra em pontos.
+- **RF07** - Nomes duplicados bloqueados.
+- **RF08** - Custo negativo bloqueado.
+- **RF09** - Rank S exige custo mínimo de 100 pontos.
+- **RF10** - Persistir somente dados válidos.
 
 Também foram incluídos, por solicitação do enunciado:
 - edição;
