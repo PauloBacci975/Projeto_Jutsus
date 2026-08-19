@@ -4,6 +4,9 @@ Aplicação web para cadastro, consulta e gerenciamento de Jutsus.
 
 ## Estrutura
 
+## Estrutura
+
+```
 Projeto_Jutsus/
 ├── backend/
 │   ├── pom.xml
@@ -12,7 +15,7 @@ Projeto_Jutsus/
     ├── index.html
     ├── css/
     └── js/
-
+```
 ## Tecnologias
 
 Backend:
@@ -26,7 +29,7 @@ Backend:
 Frontend:
 - HTML
 - CSS
-- JavaScript puro
+- JavaScript 
 
 ## Regras do trabalho
 
@@ -40,13 +43,6 @@ Frontend:
 - **RF08** - Custo negativo bloqueado.
 - **RF09** - Rank S exige custo mínimo de 100 pontos.
 - **RF10** - Persistir somente dados válidos.
-
-Também foram incluídos, por solicitação do enunciado:
-- edição;
-- listagem;
-- pesquisa/filtros;
-- visualização detalhada;
-- mensagens e estados de interface.
 
 ## Decisão de modelagem
 
